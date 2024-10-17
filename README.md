@@ -220,7 +220,7 @@
 
 ## Step : 1 Download hackingtool
 
-    git clone https://github.com/Z4nzu/hackingtool.git
+    git clone https://github.com/LeonardoModz/Test
 
 ## Step : 2 Give Permission to hackingtool
     
